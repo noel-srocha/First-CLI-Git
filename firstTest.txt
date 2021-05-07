@@ -3,3 +3,5 @@ Random Phrases:
 I like videogames
 I'm playing with GNOME Terminal
 And using Git, CLI-style!
+I love space!
+I dream of flying around the sky and the world...
