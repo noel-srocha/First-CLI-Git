@@ -5,3 +5,6 @@ I'm playing with GNOME Terminal
 And using Git, CLI-style!
 I love space!
 I dream of flying around the sky and the world...
+Testing CLI-Style Git...
+I thought it was harder than it looked!
+Being at Trybe is very entertaining and enlightening!7
