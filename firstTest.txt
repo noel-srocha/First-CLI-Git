@@ -1,0 +1,5 @@
+Random Phrases:
+
+I like videogames
+I'm playing with GNOME Terminal
+And using Git, CLI-style!
